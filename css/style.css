@@ -1,0 +1,60 @@
+body{
+  background-color:#a013a0;
+  
+}
+
+
+.but{
+  background-color:#730d73;
+  font-family:'Arvo', serif;
+  font-size:20px;
+  color:rgb(240,240,240);
+  transition-duration:0.5s;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  
+}
+.but:hover,#tweet{
+  background-color:#a013a0;
+  
+}
+h1{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size:50px;
+  color:rgb(200,200,200);
+}
+h2{
+  font-family:'Montserrat Subrayada', sans-serif;
+  color:rgb(150,150,150)
+}
+
+.qarea{
+  font-size:30px;
+  color:rgb(240,240,240);
+  font-family: 'Arvo', serif;
+  padding:20px;
+  width:100%;
+  border-style:solid;
+  margin: 0px auto;
+  margin-top:50px;
+  margin-bottom:10px;
+  text-align:center;
+  /*background-color:rgba(256,256,256,0.9);*/
+  border-radius:5px 0px 5px 0px;
+  
+  background-color:#730d73;
+  
+}
+#acaso{
+  float:right;
+}
+#tweet{
+  font-size: 1.5em;
+  border-style:solid;
+  border-color:white;
+  padding:px;
+  border-radius:5px;
+  background-color:#730d73;
+  border-width:2px;
+}
